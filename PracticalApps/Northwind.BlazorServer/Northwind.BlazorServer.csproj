@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <!-- change Sqlite to SqlServer if you prefer -->
+    <ProjectReference Include="..\Northwind.Blazor.Customers\Northwind.Blazor.Customers.csproj" />
     <ProjectReference Include="..\Northwind.Common.DataContext.Sqlite\Northwind.Common.DataContext.Sqlite.csproj" />
   </ItemGroup>
 

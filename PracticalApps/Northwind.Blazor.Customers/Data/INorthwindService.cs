@@ -1,6 +1,6 @@
 ﻿using Packt.Shared;
 
-namespace Northwind.BlazorServer.Data;
+namespace Northwind.Blazor.Customers.Data;
 
 public interface INorthwindService
 {

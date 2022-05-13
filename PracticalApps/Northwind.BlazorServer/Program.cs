@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
 using Northwind.BlazorServer.Data;
+using Northwind.Blazor.Customers.Data;
 using Packt.Shared; // AddNorthwindContext extension method
 
 var builder = WebApplication.CreateBuilder(args);

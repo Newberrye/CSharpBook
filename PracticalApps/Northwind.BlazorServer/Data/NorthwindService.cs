@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Northwind.BlazorServer.Data;
+using Northwind.Blazor.Customers.Data;
 
 namespace Packt.Shared;
 
