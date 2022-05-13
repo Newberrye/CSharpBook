@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktLibraryModern", "PacktLibraryModern\PacktLibraryModern.csproj", "{950E56D4-58A7-4FDF-8F02-A1C36745E7F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950E56D4-58A7-4FDF-8F02-A1C36745E7F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950E56D4-58A7-4FDF-8F02-A1C36745E7F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950E56D4-58A7-4FDF-8F02-A1C36745E7F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950E56D4-58A7-4FDF-8F02-A1C36745E7F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E82AC8A2-48BB-4886-BA3D-7EE4A4C4996A}
+	EndGlobalSection
+EndGlobal
